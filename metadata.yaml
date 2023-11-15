@@ -1,0 +1,39 @@
+_repo: The-wizard-of-light_72081
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Adkins, Dan
+    alias: Adkins, Dan L.
+    birthdate: 1937
+    deathdate: 2013
+    gutenberg_agent_id: '31852'
+    url: http://www.gutenberg.org/2009/agents/31852
+  - agent_name: Birmingham, Lloyd
+    alias: Birmingham, Lloyd P.
+    birthdate: 1924
+    deathdate: 2010
+    gutenberg_agent_id: '26433'
+    url: http://www.gutenberg.org/2009/agents/26433
+creator:
+  author:
+    agent_name: Ely, David
+    gutenberg_agent_id: '56529'
+    url: http://www.gutenberg.org/2009/agents/56529
+description: ''
+gutenberg_issued: '2023-11-09'
+identifiers:
+  gutenberg: '72081'
+language: en
+pgterms:marc905: 20231024092607ely
+pgterms:marc906: '1962'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1962.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The wizard of light
+url: http://www.gutenberg.org/ebooks/72081
