@@ -14,12 +14,17 @@ contributor:
     deathdate: 2010
     gutenberg_agent_id: '26433'
     url: http://www.gutenberg.org/2009/agents/26433
+covers:
+- cover_type: archival
+  image_path: 72081-h/images/cover.jpg
 creator:
   author:
     agent_name: Ely, David
     gutenberg_agent_id: '56529'
     url: http://www.gutenberg.org/2009/agents/56529
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72081#The-wizard-of-light
 gutenberg_issued: '2023-11-09'
 identifiers:
   gutenberg: '72081'
